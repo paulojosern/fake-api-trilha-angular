@@ -1,16 +1,1 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "email": "bruno@email.com",
-      "password": "bruno",
-      "name": "bruno"
-    },
-    {
-      "id": 2,
-      "email": "paulo@ibm.com",
-      "password": "12345",
-      "name": "Paulo"
-    }
-  ]
-}
+{"users":[{"id":1,"email":"bruno@email.com","password":"bruno","name":"bruno"},{"id":2,"email":"paulo@ibm.com","password":"12345","name":"Paulo"},{"id":3,"email":"teste@teste","password":"123","name":"teste"},{"id":4,"email":"paulo@paulo.com","password":"123","name":"paulo"},{"id":5,"email":"novo@novo.com.br","password":"123","name":"Novo"},{"id":6,"email":"p@p.com.br","password":"123","name":"Paulo"},{"id":7,"email":"paulo@i.com","password":"123","name":"paulo"}]}
